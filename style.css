@@ -20,8 +20,7 @@ body {
   border-radius: 5px;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  width: 300px;
-}
+  width: 300p
 
 .title {
   margin: 0;
@@ -29,18 +28,17 @@ body {
 
 .subtitle {
   display: inline-block;
-  margin: 5px 0 20px;
-  opacity: 0.8;
-}
-
-.header {
-  background-color: #3e57db;
-  color: #fff;
+  margin: 5px 0 20p
   padding: 30px 20px;
 }
 
 
-.header ;
+.header input {
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 0;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 14px;
   padding: 10px 15px;
   width: 100%;
 }
