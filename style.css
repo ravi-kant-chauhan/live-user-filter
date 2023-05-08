@@ -36,6 +36,11 @@ body {
 .header {
   background-color: #3e57db;
   color: #fff;
+  
+.header input:focus {
+  outline: none;
+}
+
   padding: 30px 20px;
 }
 
