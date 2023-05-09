@@ -54,3 +54,9 @@ body {
 .header input:focus {
   outline: none;
 }
+
+
+
+.user-list li.hide {
+  display: none;
+}
