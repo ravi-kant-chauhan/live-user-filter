@@ -14,4 +14,7 @@ async function getData() {
     // Clear result
     result.innerHTML = ''
 
+    results.forEach(user => {
+        
+    })
 }
