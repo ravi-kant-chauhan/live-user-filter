@@ -15,6 +15,9 @@ async function getData() {
     result.innerHTML = ''
 
     results.forEach(user => {
-        
+        const li = document.createElement('li')
+
+        listItems.push(li)
+
     })
 }
