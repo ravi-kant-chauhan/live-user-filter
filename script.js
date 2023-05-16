@@ -19,5 +19,8 @@ async function getData() {
 
         listItems.push(li)
 
+        
+
+        result.appendChild(li)
     })
 }
